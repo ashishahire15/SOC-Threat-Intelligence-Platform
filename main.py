@@ -6,11 +6,8 @@ from report_generator import generate_report
 print("SOC Threat Intelligence Automation Started...\n")
 
 while True:
-
     alert = monitor_alerts()
-
     ip, domain, file_hash = extract_indicators(alert)
-
     if not ip and not domain and not file_hash:
         continue
 
