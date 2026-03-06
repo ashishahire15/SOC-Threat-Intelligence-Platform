@@ -116,7 +116,7 @@ Console output:
 ```
 SOC Threat Intelligence Automation Started...
 
-New Wazuh Alert Detected
+========== NEW WAZUH ALERT ==========
 
 Indicator: 185.220.101.5
 Type: IP
