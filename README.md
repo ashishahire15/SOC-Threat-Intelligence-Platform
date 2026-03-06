@@ -48,7 +48,7 @@ Threat Intelligence Report (CSV)
 ## Project Structure
 
 ```
-soc-threat-intel-platform/
+SOC-Threat-Intelligence-Platform/
 │
 ├── main.py
 ├── realtime_monitor.py
@@ -67,8 +67,8 @@ soc-threat-intel-platform/
 Clone the repository:
 
 ```
-git clone https://github.com/Ash17171417/soc-threat-intel-platform.git
-cd soc-threat-intel-platform
+https://github.com/ashishahire15/SOC-Threat-Intelligence-Platform.git
+cd SOC-Threat-Intelligence-Platform
 ```
 
 Install dependencies:
